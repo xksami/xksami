@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="https://media.giphy.com/media/xaO6TmgQmKEQ4516sE/giphy.gif?cid=ecf05e472byd9nz4iqm46r8aiv6br62ahyiahwhwrwlkowjg&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="programming"/>
 </p>
 
 ###
