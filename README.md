@@ -3,9 +3,8 @@
 ###
 
 <p align="center">
- <img width="350" src="https://media.giphy.com/media/xaO6TmgQmKEQ4516sE/giphy.gif?cid=ecf05e472byd9nz4iqm46r8aiv6br62ahyiahwhwrwlkowjg&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="programming"/>
+ <img width="300" src="https://media.giphy.com/media/xaO6TmgQmKEQ4516sE/giphy.gif?cid=ecf05e472byd9nz4iqm46r8aiv6br62ahyiahwhwrwlkowjg&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="programming"/>
 </p>
-<br><br>
 
 ###
 
@@ -14,11 +13,11 @@
 ###
 
 <h3 align="left">👩‍💻  Про мене:</h3>
-<br><br>
+
 ###
 
 <p align="left">Я початківець у розробці програмного забезпечення, маю досвід роботи з WPF у C# та створення проєктів на C++. Також знайома з основами веб-розробки, включаючи HTML і CSS. Проходила курси з програмування, де здобула теоретичні знання та небагато практичного досвіду. Прагну вдосконалювати свої навички та створювати  програмні рішення.</p>
-<br><br>
+
 ###
 
 <h3 align="left">🛠 Технології:</h3>
@@ -34,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
-<br><br>
+
 ###
 
 <h3 align="left">💻 Мої проєкти:</h3>
@@ -43,7 +42,7 @@
 🔗Посилання на репозиторій:
 - [Каса автовокзалу](https://github.com/TheDamStex/Kursach.git)  
 Командна робота, створення WPF додатку на мові C# для управління касою автовокзалу.
-<br><br>
+
 ### 
 
 <h3 align="left">📄 Моє резюме:</h3>
