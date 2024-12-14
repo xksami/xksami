@@ -45,4 +45,9 @@
 
 ### 
 
+<h3 align="left">📄 Моє резюме:</h3>
+
+###    
+![Resume](https://github.com/xksami/xksami/blob/main/resume.jpg) 
+
 
